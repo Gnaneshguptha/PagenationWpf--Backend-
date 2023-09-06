@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhux28WU4saJUjoMq5gly05zMPPwo3YK+ZflZQKlLabGbtIxFwGxwSMbJw0eUn3yZ8DveRJhjMJ/vs7Wa1ozIg==",
+  "success": true,
+  "projectFilePath": "E:\\DotnetProjects\\wpfVbCrud\\wpfVbCrud.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
